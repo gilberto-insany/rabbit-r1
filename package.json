@@ -1,0 +1,1 @@
+{"name":"rabbit-r1-product-study","private":true,"type":"module","scripts":{"dev":"node scripts/serve.mjs","build":"node scripts/build.mjs"},"dependencies":{"three":"0.180.0","gsap":"3.14.2"},"devDependencies":{"esbuild":"0.25.10"}}

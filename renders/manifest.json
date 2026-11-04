@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01_frente_3k.png",
+    "bytes": 15163271,
+    "sha256": "279a40485b2097e967d3d7d3b7898c43d47f0506ceb19d5ff7d18aeab3d51ac3"
+  },
+  {
+    "file": "02_costas_3k.png",
+    "bytes": 15865901,
+    "sha256": "0ecbc3e18ac6bc5fc90f0959bcf93bb24b33c5fdf77c106b572b7e5063a90ddd"
+  },
+  {
+    "file": "03_close_grade_som_3k.png",
+    "bytes": 24324813,
+    "sha256": "1b850ade92d0a0b1c787e61adf1fa111bb92c3b94353ed1b39e93a4f90f6c343"
+  },
+  {
+    "file": "04_close_controles_3k.png",
+    "bytes": 24523691,
+    "sha256": "5ff4468888ba970807a80d870d072915ca9174514cdc783ba648356e46bd091f"
+  },
+  {
+    "file": "05_close_camera_3k.png",
+    "bytes": 33734148,
+    "sha256": "4b1765722ee2a3bc635d9821cac4cf1d107de908e72fda6d1256e5e95794994e"
+  },
+  {
+    "file": "06_composicao_dramatica_3k.png",
+    "bytes": 5237631,
+    "sha256": "f00a984be3f9abea0cec60d3e8d0cdd01bc761f6dbb68c90615e8e80b8c21c90"
+  }
+]

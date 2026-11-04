@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64">
+<title>rabbit r1</title><rect width="64" height="64" rx="14" fill="#ff5c00"/>
+<g transform="translate(13.3 5.7) scale(.365)"><g fill="#080808">
+    <path d="M 9,7 C 7,3 11,4 14,6 L 38,15 C 41,16 42,18 43,21 L 56,55 L 43,58 L 25,51 Z"/>
+    <path d="M 66,13 C 66,8 69,8 72,11 L 91,32 C 93,34 93,36 93,39 L 93,80 C 93,86 90,88 87,85 L 68,64 C 66,62 66,60 66,57 Z"/>
+    <path d="M 11,85 C 11,80 13,78 17,75 L 39,61 C 45,57 51,56 57,57 L 64,59 L 87,86 C 91,90 94,88 96,83 L 96,113 C 96,118 94,121 89,124 L 65,138 C 57,143 49,143 41,139 L 17,125 C 13,123 11,120 11,115 Z"/>
+  </g>
+<g fill="none" stroke="#ff5c00" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 11,97 C 14,97 16,102 18,107"/>
+    <path d="M 21,112 L 34,121 M 28,110 L 28,123"/>
+    <path d="M 40,119 C 46,110 53,110 62,120"/>
+  </g></g></svg>
